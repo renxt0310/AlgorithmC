@@ -1,2 +1,2 @@
-# AlgorithmC
-Basic algorithms of C
+# Algorithms
+Basic algorithms of C, Java, Python
